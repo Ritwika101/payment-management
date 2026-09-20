@@ -24,15 +24,12 @@ Payment requests are generated asynchronously after POD approval. The payable am
 ## Tech Stack
 
 - Node.js
-- Express.js
 - MongoDB & Mongoose
 - Redis
 - Bull
 - JWT
 - bcrypt
-- Multer
 - Socket.IO
-- EJS
 
 ## Core Modules
 
